@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/txts">
+        <file>Addons/Tabs/load_animation.gif</file>
+    </qresource>
+    <qresource prefix="/gifs"/>
+</RCC>
